@@ -52,12 +52,6 @@ body {
 }
 
 /* Hero Section */
-.hero {
-  background-color: #ff5e5b;
-  color: white;
-  padding: 120px 20px;
-  text-align: center;
-}
 
 .hero h1 {
   font-size: 48px;
@@ -68,20 +62,7 @@ body {
   margin-top: 20px;
 }
 
-.hero button {
-  background-color: #002d6b;
-  color: white;
-  padding: 10px 20px;
-  font-size: 18px;
-  border: none;
-  cursor: pointer;
-  margin-top: 30px;
-}
 
-.hero button:hover {
-  background-color: #ff5e5b;
-  transition: 0.3s ease;
-}
 
 /* About Section */
 .about {
@@ -102,9 +83,9 @@ body {
 /* Services Section */
 .services {
   padding: 60px 20px;
-  background-color: #f4f4f4;
+  background-color: #7e7676;
   text-align: center;
-  place-items: center;
+  
 }
 
 .services h2 {
@@ -113,7 +94,7 @@ body {
 }
 
 .services .service-item {
-  margin: 20px 0;
+  margin: 100px 0;
 }
 
 .services .service-item h3 {
@@ -124,6 +105,9 @@ body {
 .services .service-item p {
   font-size: 18px;
 }
+
+
+
 
 /* Contact Section */
 .contact {
@@ -147,7 +131,7 @@ body {
   margin-bottom: 5px;
 }
 
-.contact form input,
+
 .contact form textarea {
   width: 100%;
   padding: 10px;
@@ -170,7 +154,7 @@ body {
   background-color: #002d6b;
 }
 
-/* Footer Section */
+
 .footer {
   background-color: #002d6b;
   color: white;
@@ -182,40 +166,9 @@ body {
 .footer p {
   font-size: 16px;
 }
-/* HeroSection.css */
-.hero {
-  text-align: center;
-  background: #1685bd; /* Hero Section background color */
-  padding: 50px;
-}
 
-.hero-content h1 {
-  font-size: 36px;
-  color: white;
-}
 
-.hero-content p {
-  font-size: 18px;
-  color: white;
-}
 
-.hero-content button {
-  background-color: #c91e1e;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-  font-size: 76px;
-  margin-top: 20px;
-}
-
-.hero-content button:hover {
-  background-color: #030e1d;
-  padding: 10px 10px;
-
-}
-
-/* Form Modal Styling */
 .form-container {
   position: fixed;
   top: 0;
@@ -227,6 +180,7 @@ body {
   justify-content: center;
   align-items: center;
   z-index: 1000;
+  color: #030e1d;
 }
 
 .form-modal {
@@ -253,13 +207,13 @@ body {
 
 .form-modal button.close-btn:hover {
   background-color: #2982bd;
+
+
 }
 .content-image {
-  width: 100%; /* Make the image responsive */
-  max-width: 700px; /* Limit the maximum width */
-  height: auto;
-  display: grid; /* Ensures it doesn't get any space below it */
-  margin-top: 20px;
-  
-  place-items: center; 
+  max-width: 50%; /* Ensure the image doesn't overflow */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure it's rendered as a block element */
+  margin: 0 auto; /* Center the image */
 }
+

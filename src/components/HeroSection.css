@@ -1,7 +1,7 @@
 .hero {
     padding-top: 80px; /* Adjust this value to provide spacing between the navbar and the hero section */
     height: 500px;
-    
+    background: #1685bd; /* Hero Section background color */
     color: #fff;
   }
   
@@ -10,12 +10,19 @@
     padding: 20px;
   }
   
+  .hero-content h1 {
+    font-size: 36px;
+    color: white;
+  }
+
+  
   .hero h1 {
     font-size: 3rem;
   }
   
   .hero p {
     font-size: 1.5rem;
+    color: rgb(0, 0, 0);
   }
   
   .hero button {
@@ -31,23 +38,36 @@
     background-color: transparent;  /* Same as navbar links */
     color: rgb(4, 27, 241);  /* Same as navbar text color */
     border: none;
-    padding: 10px 10px;
+   
     font-size: 30px;
     cursor: pointer;
     text-decoration: none;  /* Remove underline */
     margin: 0 15px;  /* Same spacing as navbar links */
-    position: relative;
+    /* position: relative; */
     
     
     
   }
   .btn-get-involved {
+
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 50%;
+
+   
+
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
     border-radius: 4px;
     transition: background-color 0.3s, transform 0.3s; /* Add transform for smooth scaling */
     width: auto;
-    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.02);
+    box-shadow: 0 2px 0 rgba(248, 248, 248, 0.02);
     font-family: Poppins, sans-serif !important;
     background-color: transparent;
     color: rgb(4, 27, 241);
@@ -61,13 +81,13 @@
     display: inline-block; /* Ensure the button is inline */
     text-align: center; /* Center the text */
     transition: all 0.3s ease-in-out; /* Ensures all transitions are smooth */
+   
   }
   
   
   .btn-get-involved:hover {
     color: white; /* Change text color on hover */
-    background-color: rgb(4, 27, 241); /* Change background color */
-    transform: scale(1.05); /* Scale up the button on hover (without affecting padding) */
-    border: 2px solid rgb(4, 27, 241); /* Ensure border is consistent */
+   
+    
   }
   

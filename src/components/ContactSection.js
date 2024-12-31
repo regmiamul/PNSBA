@@ -3,6 +3,7 @@ import React from 'react';
 function ContactSection() {
   return (
     <section id="contact" className="contact">
+      
       <h2>Contact Us</h2>
       <form>
         <div>

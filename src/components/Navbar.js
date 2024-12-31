@@ -1,12 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import "./Navbar.css";
 
 
 function Navbar() {
   return (
     <nav className="navbar">
+      <img src="/image1.png" alt="amul" height={70} />
       <div className="logo">
-        <h1>PNSBA - Prawas Nepali Samparka Bibhag Australia</h1>
+
+        
+        <h1>  PNSBA - Prawas Nepali Samparka Bibhag Australia</h1>
       </div>
       <ul className="nav-links">
         <li><Link to="#hero">Home</Link></li>
