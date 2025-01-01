@@ -18,7 +18,8 @@ function ServicesSection() {
       <div className="service-item">
         <h3>Business Support</h3>
         <p>Supporting Nepalese entrepreneurs and startups.</p>
-        <img src="/one.png" alt="amul"  className="content-image"/ >
+        <img src={`${process.env.PUBLIC_URL}/one.png`} alt="amul" className="content-image" 
+/>
         
         
       </div>

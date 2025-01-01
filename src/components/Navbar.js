@@ -6,7 +6,7 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <img src="/image1.png" alt="amul" height={70} />
+      <img src= {`${process.env.PUBLIC_URL}/image1.png`} alt="amul" height={70} />
       <div className="logo">
 
         
