@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PNSBA/static/css/main.5d0e0994.css",
-    "main.js": "/PNSBA/static/js/main.6ff16dfd.js",
+    "main.js": "/PNSBA/static/js/main.8c73011e.js",
     "static/js/453.d2204ba0.chunk.js": "/PNSBA/static/js/453.d2204ba0.chunk.js",
     "index.html": "/PNSBA/index.html",
     "main.5d0e0994.css.map": "/PNSBA/static/css/main.5d0e0994.css.map",
-    "main.6ff16dfd.js.map": "/PNSBA/static/js/main.6ff16dfd.js.map",
+    "main.8c73011e.js.map": "/PNSBA/static/js/main.8c73011e.js.map",
     "453.d2204ba0.chunk.js.map": "/PNSBA/static/js/453.d2204ba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0e0994.css",
-    "static/js/main.6ff16dfd.js"
+    "static/js/main.8c73011e.js"
   ]
 }
