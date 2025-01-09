@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PNSBA/static/css/main.5696d236.css",
-    "main.js": "/PNSBA/static/js/main.3c0e5caf.js",
+    "main.css": "/PNSBA/static/css/main.b18ded9c.css",
+    "main.js": "/PNSBA/static/js/main.b9aa2a6c.js",
     "static/js/453.d2204ba0.chunk.js": "/PNSBA/static/js/453.d2204ba0.chunk.js",
     "static/media/about.PNG": "/PNSBA/static/media/about.a1a3e8bcc3742ab7e47c.PNG",
     "index.html": "/PNSBA/index.html",
-    "main.5696d236.css.map": "/PNSBA/static/css/main.5696d236.css.map",
-    "main.3c0e5caf.js.map": "/PNSBA/static/js/main.3c0e5caf.js.map",
+    "main.b18ded9c.css.map": "/PNSBA/static/css/main.b18ded9c.css.map",
+    "main.b9aa2a6c.js.map": "/PNSBA/static/js/main.b9aa2a6c.js.map",
     "453.d2204ba0.chunk.js.map": "/PNSBA/static/js/453.d2204ba0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5696d236.css",
-    "static/js/main.3c0e5caf.js"
+    "static/css/main.b18ded9c.css",
+    "static/js/main.b9aa2a6c.js"
   ]
 }
