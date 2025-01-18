@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PNSBA/static/css/main.54e2fcbe.css",
-    "main.js": "/PNSBA/static/js/main.3501d211.js",
+    "main.css": "/PNSBA/static/css/main.7bf5abd9.css",
+    "main.js": "/PNSBA/static/js/main.4eddedf2.js",
     "static/media/insta.png": "/PNSBA/static/media/insta.ca4159e240dc6590a8f4.png",
     "static/media/Hari1.jpeg": "/PNSBA/static/media/Hari1.7c7914737487f2180d0e.jpeg",
     "static/media/Hari4.jpeg": "/PNSBA/static/media/Hari4.69cc7d6c37b9342f2b63.jpeg",
@@ -24,11 +24,11 @@
     "static/media/Bishwas.jpeg": "/PNSBA/static/media/Bishwas.24205816892ee8bb5330.jpeg",
     "static/media/Dhattatreya.jpeg": "/PNSBA/static/media/Dhattatreya.04e259a99d41a38d2daf.jpeg",
     "index.html": "/PNSBA/index.html",
-    "main.54e2fcbe.css.map": "/PNSBA/static/css/main.54e2fcbe.css.map",
-    "main.3501d211.js.map": "/PNSBA/static/js/main.3501d211.js.map"
+    "main.7bf5abd9.css.map": "/PNSBA/static/css/main.7bf5abd9.css.map",
+    "main.4eddedf2.js.map": "/PNSBA/static/js/main.4eddedf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e2fcbe.css",
-    "static/js/main.3501d211.js"
+    "static/css/main.7bf5abd9.css",
+    "static/js/main.4eddedf2.js"
   ]
 }
