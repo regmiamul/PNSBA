@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PNSBA/static/css/main.7bf5abd9.css",
-    "main.js": "/PNSBA/static/js/main.4eddedf2.js",
+    "main.css": "/PNSBA/static/css/main.d3f8ae6f.css",
+    "main.js": "/PNSBA/static/js/main.5fecd54b.js",
     "static/media/insta.png": "/PNSBA/static/media/insta.ca4159e240dc6590a8f4.png",
     "static/media/Hari1.jpeg": "/PNSBA/static/media/Hari1.7c7914737487f2180d0e.jpeg",
     "static/media/Hari4.jpeg": "/PNSBA/static/media/Hari4.69cc7d6c37b9342f2b63.jpeg",
@@ -11,7 +11,6 @@
     "static/media/Hari2.jpeg": "/PNSBA/static/media/Hari2.0e129e9b0ba0a17e2572.jpeg",
     "static/media/fb.png": "/PNSBA/static/media/fb.9680fbd1e39a40a4a2da.png",
     "static/media/Shambhu.jpeg": "/PNSBA/static/media/Shambhu.4ba878844d18e222cf13.jpeg",
-    "static/media/Background.jpg": "/PNSBA/static/media/Background.8370ed0d2e256e7701da.jpg",
     "static/media/Krishna.jpeg": "/PNSBA/static/media/Krishna.05ef583b723f9564866c.jpeg",
     "static/media/Gopi.jpeg": "/PNSBA/static/media/Gopi.e702091808c0fa19b365.jpeg",
     "static/media/Nirajan.jpeg": "/PNSBA/static/media/Nirajan.b3e62bb0b5aafbb7284f.jpeg",
@@ -23,12 +22,13 @@
     "static/media/Amul.jpeg": "/PNSBA/static/media/Amul.23af30d34b61a245bd90.jpeg",
     "static/media/Bishwas.jpeg": "/PNSBA/static/media/Bishwas.24205816892ee8bb5330.jpeg",
     "static/media/Dhattatreya.jpeg": "/PNSBA/static/media/Dhattatreya.04e259a99d41a38d2daf.jpeg",
+    "static/media/Background.jpg": "/PNSBA/static/media/Background.39eabebf8202dc50d48c.jpg",
     "index.html": "/PNSBA/index.html",
-    "main.7bf5abd9.css.map": "/PNSBA/static/css/main.7bf5abd9.css.map",
-    "main.4eddedf2.js.map": "/PNSBA/static/js/main.4eddedf2.js.map"
+    "main.d3f8ae6f.css.map": "/PNSBA/static/css/main.d3f8ae6f.css.map",
+    "main.5fecd54b.js.map": "/PNSBA/static/js/main.5fecd54b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bf5abd9.css",
-    "static/js/main.4eddedf2.js"
+    "static/css/main.d3f8ae6f.css",
+    "static/js/main.5fecd54b.js"
   ]
 }
