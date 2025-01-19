@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PNSBA/static/css/main.d3f8ae6f.css",
-    "main.js": "/PNSBA/static/js/main.5fecd54b.js",
+    "main.css": "/PNSBA/static/css/main.76a28c53.css",
+    "main.js": "/PNSBA/static/js/main.e5d006ac.js",
     "static/media/insta.png": "/PNSBA/static/media/insta.ca4159e240dc6590a8f4.png",
     "static/media/Hari1.jpeg": "/PNSBA/static/media/Hari1.7c7914737487f2180d0e.jpeg",
     "static/media/Hari4.jpeg": "/PNSBA/static/media/Hari4.69cc7d6c37b9342f2b63.jpeg",
@@ -24,11 +24,11 @@
     "static/media/Dhattatreya.jpeg": "/PNSBA/static/media/Dhattatreya.04e259a99d41a38d2daf.jpeg",
     "static/media/Background.jpg": "/PNSBA/static/media/Background.39eabebf8202dc50d48c.jpg",
     "index.html": "/PNSBA/index.html",
-    "main.d3f8ae6f.css.map": "/PNSBA/static/css/main.d3f8ae6f.css.map",
-    "main.5fecd54b.js.map": "/PNSBA/static/js/main.5fecd54b.js.map"
+    "main.76a28c53.css.map": "/PNSBA/static/css/main.76a28c53.css.map",
+    "main.e5d006ac.js.map": "/PNSBA/static/js/main.e5d006ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3f8ae6f.css",
-    "static/js/main.5fecd54b.js"
+    "static/css/main.76a28c53.css",
+    "static/js/main.e5d006ac.js"
   ]
 }
